@@ -15,7 +15,7 @@ install_github('frajaroco/SOAstpp')
 ```
 ## CiteBibtex
 ```
-@misc{r15,
+@misc{fjrc:16,
 	author = {Francisco J. Rodr\'{i}guez-Cort\'{e}s},
 	title = {SOAstpp: {S}econd-order analysis for anisotropic spatio-temporal point process data},
 	year = {2016},
