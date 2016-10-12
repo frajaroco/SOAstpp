@@ -1,0 +1,5 @@
+useDynLib(SOAstpp)
+exportPattern("^[[:alpha:]]+")
+
+import(spatstat)
+import(stpp)

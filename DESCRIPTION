@@ -1,0 +1,17 @@
+Package: SOAstpp
+Type: Package
+Title: Second-order analysis for anisotropic spatio-temporal point process data
+Version: 0.1.2
+Nickname: Coffee Aroma
+Date: 2015-12-14
+Author: Francisco J. Rodriguez-Cortes
+Maintainer: Francisco J. Rodriguez-Cortes <cortesf@uji.es>
+Depends:
+    R (>= 3.3.1),
+    spatstat,
+    stpp
+Description: A basic tool for the exploration and analysis of the anisotropic spatio-temporal point patterns through K-function
+License: GPL-3
+LazyLoad: yes
+NeedsCompilation: yes
+RoxygenNote: 5.0.1
