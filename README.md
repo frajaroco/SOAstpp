@@ -4,13 +4,13 @@ A basic tool for the exploration and analysis of the anisotropic spatio-temporal
 
 ## Installation guide
 
-The easiest way to install the development version of SOAstpp from github is using the devtools package which can be installed run the next command:
+The easiest way to install the development version of `SOAstpp` from GitHub is using the `remotes` **R** package which can be installed run the next command:
 ```
-install.packages('devtools', dependencies=TRUE)
+install.packages('remotes')
 ```
 and thereafter run the commands:
 ```
-require(devtools)
+require(remotes)
 install_github('frajaroco/SOAstpp')
 ```
 
